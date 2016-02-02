@@ -23,3 +23,5 @@ exercise 16: use AGRV give a filename , use open to open the file ,and use tranc
 exercise 17: use ARGV open read / open  write to copy one file to another
 
 exercise 20: use ARGV , function to read line of the given file
+
+exercise 25:require a module and deal with sentence with shift pop sort
