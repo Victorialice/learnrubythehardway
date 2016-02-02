@@ -29,3 +29,5 @@ exercise 25:require a module and deal with sentence with shift pop sort
 exercise 35: On many operating systems a program can abort with exit(0), and the number passed in will indi              cate an error or not. If you do exit(1) then it will be an error, but exit(0) will be a good                exit. The reason it's backward from normal boolean logic (with 0==false is that you can use                different numbers to indicate different error results. You can do exit(100) for a different               error result than exit(2) or exit(1).
 exercise 37: defined  this class/function/etc. defined already? defined? Class == "constant"
             super The parent class of this class.
+
+exercise 46: mkdir bin data doc ext lib tests lib/NAME
