@@ -1,0 +1,23 @@
+in Ruby the " (double-quote) tell Ruby to replace variables it finds with #{}, but the ' (single-quote) 
+tells Ruby to leave the string alone and ignore any variables inside it.
+
+
+exercise 8: Printing, Printing: %{}
+
+exercise 9: """     """ 
+
+exercise 10: \n  \f \r.....
+
+exercise 11: gets.chomp
+
+exercise 12: gets.chomp.to_i
+
+exercise 13: ARGV
+
+exercise 14: ARGV and chomp
+
+exercise 15: use ARGV and chomp open file
+
+exercise 16: use AGRV give a filename , use open to open the file ,and use trancate to delete the content 
+             and ,use gets receive string ,and use write to add content  from the gets
+exercise 17: use ARGV open read / open  write to copy one file to another
